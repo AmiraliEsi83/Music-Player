@@ -1,7 +1,7 @@
 # Music-Player
 music player with custom controls
 
-<img src='music-player.MP4'>
+<img src='music-player.jpg'>
 
 [live-server](https://AmiraliEsi83.github.io/Music-Player)
 
