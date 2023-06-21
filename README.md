@@ -3,7 +3,7 @@ music player with custom controls
 
 <img src='music-player.jpg'>
 
-[live-server](https://AmiraliEsi83.github.io/Music-Player)
+![Live-Version](https://AmiraliEsi83.github.io/Music-Player)
 
 
 - music player with custom controls and animation
